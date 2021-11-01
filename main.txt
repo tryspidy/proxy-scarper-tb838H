@@ -1,0 +1,1 @@
+curl "https://sunny9577.github.io/proxy-scraper/proxies.txt" > proxies.txt
